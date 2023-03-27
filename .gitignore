@@ -1,0 +1,17 @@
+.bundle/
+log/*.log
+pkg/
+
+# Specific Files to ignore #
+############################
+Thumbs.db
+Icon?
+.DS_Store?
+.DS_Store
+ehthumbs.db
+.idea # Rubymine config files
+/.idea/*
+Gemfile.lock
+.ruby-version
+scratch.rb
+coverage/*
